@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Alexandre
 
-<!--
-**lucasssilva7/lucasssilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Front-end com foco em JavaScript  
+🚀 Buscando oportunidade como Desenvolvedor Júnior  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git e GitHub
+- Python (em aprendizado)
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas e experiência profissional em ambiente corporativo, atuando com sistemas como SAP e processos empresariais.
+
+Tenho foco em desenvolvimento web com JavaScript e já desenvolvi projetos práticos aplicando manipulação de DOM, validações de formulário, lógica de programação e organização de código.
+
+Busco minha primeira oportunidade como Desenvolvedor Júnior para aplicar meus conhecimentos técnicos, evoluir profissionalmente e contribuir com soluções eficientes.
+
+---
+
+## 📂 Projetos
+
+### 🧮 Calculadora Simples e Moderna
+Aplicação desenvolvida com HTML, CSS e JavaScript, contendo operações matemáticas básicas e interface estilizada.
+
+### 📋 Formulário Completo com Validações
+Projeto com validação de campos utilizando JavaScript, tratamento de erros e manipulação de eventos.
+
+### ✅ Lista de Tarefas
+Aplicação com manipulação de DOM, criação e remoção dinâmica de elementos e controle de eventos.
+
+---
+
+📫 Contato: lucas.assilva@outloo
