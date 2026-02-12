@@ -39,4 +39,4 @@ Aplicação com manipulação de DOM, criação e remoção dinâmica de element
 
 ---
 
-📫 Contato: lucas.assilva@outloo
+📫 Contato: lucas.assilva@outlook.com
