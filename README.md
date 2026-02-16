@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Alexandre
+# 👋 Olá, eu sou o Lucas Silva
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Front-end com foco em JavaScript  
